@@ -1,0 +1,5 @@
+base_url=http://127.0.0.1:5000
+basic_username=sensor_admin
+basic_password=homehub_pass
+bearer_token=smart-home-demo-token
+timeout=3
